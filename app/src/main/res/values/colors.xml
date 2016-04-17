@@ -1,0 +1,10 @@
+<resources>
+
+    <color name="background">#FFCC80</color>
+    <color name="foreground">#FFF3E0</color>
+    <color name="pink">#ffb3b3</color>
+
+    <color name="colorPrimary"> #b30000</color>
+    <color name="colorPrimaryDark">#990000</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>

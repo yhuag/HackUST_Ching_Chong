@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_pick"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/pick" />
+        <item
+            android:id="@+id/nav_myPick"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/myPick" />
+        <item
+            android:id="@+id/nav_visited"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/visited" />
+        <item
+            android:id="@+id/nav_instruction"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/instruction" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/setting" />
+        <item
+            android:id="@+id/nav_feedback"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/feedback" />
+    </group>
+
+
+</menu>
